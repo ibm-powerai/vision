@@ -1,7 +1,8 @@
 The [IBM PowerAI Vision](https://developer.ibm.com/linuxonpower/deep-learning-powerai/technology-previews/powerai-vision/) platform offers built-in deep learning models that learn to analyze images and video streams for classification and object detection. Technology Preview 1.0 provides classification services.
 
 [![PowerAI Vision Classifier Demo](https://img.youtube.com/vi/qHZRnswzqUI/0.jpg)](https://www.youtube.com/watch?v=qHZRnswzqUI)
-IBM PowerAI Vision Classifier Demo (2m32s)
+
+[IBM PowerAI Vision Classifier Demo (2m32s)](https://www.youtube.com/watch?v=qHZRnswzqUI)
 
 IBM PowerAI Vision provides users with image-based deep learning analytics, including the following key features:
 1. **Automatic model generation:** IBM PowerAI Vision provides the base model to the users, and the enterprise application developers can use the platform to automatically create new training models and cognitive APIs to quickly develop new image recognition applications.
